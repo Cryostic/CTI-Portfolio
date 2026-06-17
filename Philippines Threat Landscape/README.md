@@ -32,5 +32,3 @@ This project strictly operationalizes the standard **Intelligence Lifecycle**:
  ┌──────────────┐       ┌──────────────┐       ┌──────────────┐
  │  Collection  │ ───>  │   Analysis   │ ───>  │  Production  │
  └──────────────┘       └──────────────┘       └──────────────┘
- (Shodan, Censys,       (Diamond Model,        (Structured MD,
-  OSINT Feeds, VT)       MITRE ATT&CK)          Threat Briefs)
