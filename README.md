@@ -9,10 +9,10 @@ Welcome to my Independent Cyber Threat Intelligence (CTI) research repository. T
 
 ## Portfolio Architecture & Project Indices
 
-## 1. Strategic Intelligence: Philippines Threat Landscape
+## 1. ASEAN / Philippines Threat Landscape
 
-## 2. Operational Intelligence: Philippines Fraud / Phishing Monitoring
+## 2. Threat Actor Profile 
 
-## 3. Threat Actor Profile 
+## 3. Fraud / Phishing Campaign Analysis  
 
-## 4. Threat Intelligence Fusion: ASEAN Cybercrime
+## 4. Dark Web Intelligence Monitoring 
